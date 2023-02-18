@@ -1,0 +1,28 @@
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.content-box {
+    width: 250px;
+    border: 1px solid #806e6e;
+    padding: 16px;
+}
+.personage_img {
+    max-width: 100%;
+}
+.personage-name {
+    text-align: center;
+    color: #479739;
+}
+h3 {
+    color: rgb(5, 79, 126);
+}
+h4 {
+    color: rgb(99, 100, 101);
+}
+.personage_text {
+    font-size: 20px;
+    color: #7d5050;
+}
